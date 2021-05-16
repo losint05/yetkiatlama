@@ -1,0 +1,27 @@
+{
+  "rankLog": "843412298185310238",
+   
+  "tag": "୪",
+  "staffs": ["843120730417135646"],
+  "publicParents": [""], 
+  "registerParents": [""],
+  "solvingParents": [""],
+  "privateParents": [""],
+  "aloneParents": [""],
+  "funParents": [""],
+  "messageCount": 1,
+  "messageCoin": 1,
+  "voiceCount": 1,
+  "voiceCoin": 1,
+  "publicCoin": 2,
+  "taggedCoin": 25,
+  "emojis": {
+    "nokta": "<:forcy_nokta:843049802862428170>",
+    "terfiemoji": "<a:forcy_yildiz6:843412076063490078>",
+    "fill": "<a:forcy_bar:843413432141348904>",
+    "empty": "<:forcy_gribar:843413167459663884>",
+    "fillStart": "<a:forcy_baslangicbar:843413380155965470>",
+    "emptyEnd": "<:forcy_gribitisbar:843413245322592267>",
+    "fillEnd": "<a:forcy_bitisbar:843413466710933526>"
+  }
+}

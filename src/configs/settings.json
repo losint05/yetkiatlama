@@ -1,0 +1,6 @@
+{
+  "token": "",
+  "prefix": ["."],
+  "mongoUrl": "mongodb+srv://ingiltereliguard:DzAlcDLv5Ak4Mext@cluster0.ilg44.azure.mongodb.net/ingiltereliguard?retryWrites=true&w=majority",
+  "owners": ["797738104450449420"]
+}
